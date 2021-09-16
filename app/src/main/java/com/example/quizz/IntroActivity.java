@@ -22,7 +22,7 @@ public class IntroActivity extends AppCompatActivity {
         Animation introAnimation = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.intro);
         introText.setAnimation(introAnimation);
 
-        Intent intent = new Intent(this, MainActivity.class);
+        Intent intent = new Intent(this, LoginActivity.class);
 
         new Handler().postDelayed(new Runnable() {
             @Override

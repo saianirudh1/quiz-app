@@ -12,6 +12,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Quizz">
         <activity
+            android:name=".ScoreActivity"
+            android:exported="true" />
+        <activity
+            android:name=".QuizzActivity"
+            android:exported="true"
+            android:parentActivityName=".MainActivity" />
+        <activity
             android:name=".ForgotPasswordActivity"
             android:exported="true" />
         <activity

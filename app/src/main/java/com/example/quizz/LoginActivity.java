@@ -38,7 +38,6 @@ public class LoginActivity extends AppCompatActivity {
         userPassword = findViewById(R.id.editTextUserPassword);
         forgotPassword = findViewById(R.id.textViewForgotPassword);
         signIn = findViewById(R.id.buttonUserLogin);
-        googleSignIn = findViewById(R.id.buttonUserGoogleLogin);
         signUp = findViewById(R.id.textViewSignUp);
 
         signUp.setOnClickListener(new View.OnClickListener() {

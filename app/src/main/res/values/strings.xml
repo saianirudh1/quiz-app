@@ -15,4 +15,16 @@
     <string name="prompt_sign_up"><u>New user? Sign up Here!</u></string>
     <string name="sign_up">Sign Up</string>
     <string name="continue_button">Continue</string>
+    <string name="sign_out">Sign Out</string>
+
+    <!-- Start Game   -->
+    <string name="start">Start Quiz</string>
+    <string name="placeholder">Text View</string>
+    <string name="time">Time</string>
+    <string name="wrong_answer">Wrong Answer</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="placeholder_0">0</string>
+    <string name="finish">Finish</string>
+    <string name="next">Next Question</string>
+
 </resources>
